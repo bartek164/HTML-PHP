@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<głowny rok_powstania="10-25-17">
+
+
+
+<skróty>
+  <![CDATA[
+ Jakaś tam dowolna treść <&>
+  ]]>
+<!--
+<!DOCTYPE polskie_partie [
+<!ENTITY po "Platforma Obywatelska">
+<!ENTITY pis "Prawo i Sprawiedliwość">
+<!ENTITY sld "Sojusz Lewicy Demokratycznej">
+<!ENTITY sdpl "Socjaldemokracja Polska">
+<!ENTITY lpr "Liga Polskich Rodzin">
+<!ENTITY pd "Partia Demokratyczna">
+<!ENTITY so "Samoobrona">
+]> -->
+ </skróty>
+
+
+<text>Tekst</text>
+<xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                src="JavaScript_start.js"
+                type="application/javascript"/>
+
+
+
+
+</głowny>
